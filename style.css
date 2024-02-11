@@ -1,0 +1,16 @@
+.container{
+    text align:center;
+}
+#colorButton{
+    padding:90px 100px;
+    background-color:rgb(48, 118, 198);
+    color:white;
+    border:none;
+    cursor:pointer;
+}
+#colorbutton:hover {
+    background-color: aqua;
+}
+.hidden{
+    display:none;
+}
